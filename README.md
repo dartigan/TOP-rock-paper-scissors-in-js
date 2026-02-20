@@ -1,2 +1,2 @@
-# TOP--rock-paper-scissors-in-js
+# TOP: rock-paper-scissors-in-js
 A game of Rock paper scissors in js
