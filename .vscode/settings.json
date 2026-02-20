@@ -1,0 +1,18 @@
+{
+  // Kill ALL auto popups
+  "editor.suggestOnTriggerCharacters": false,
+
+  // Disable quick suggestions entirely
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+
+  // Disable inline ghost text
+  "editor.inlineSuggest.enabled": false,
+
+  // Disable Emmet just in case
+  "emmet.showExpandedAbbreviation": "never",
+  "emmet.triggerExpansionOnTab": false
+}
